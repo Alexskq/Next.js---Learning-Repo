@@ -29,6 +29,6 @@
     ".next/types/**/*.ts",
     "app/lib/placeholder-data.js",
     "scripts/seed.js"
-  ],
+, ".next/auth.config.ts", ".next/middleware.ts", ".next/auth.ts"  ],
   "exclude": ["node_modules"]
 }
